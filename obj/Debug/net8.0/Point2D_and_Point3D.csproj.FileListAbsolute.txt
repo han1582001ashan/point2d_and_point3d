@@ -1,0 +1,14 @@
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Point2D_and_Point3D\obj\Debug\net8.0\Point2D_and_Point3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Point2D_and_Point3D\obj\Debug\net8.0\Point2D_and_Point3D.AssemblyInfoInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Point2D_and_Point3D\obj\Debug\net8.0\Point2D_and_Point3D.AssemblyInfo.cs
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Point2D_and_Point3D\obj\Debug\net8.0\Point2D_and_Point3D.csproj.CoreCompileInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Point2D_and_Point3D\bin\Debug\net8.0\Point2D_and_Point3D.exe
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Point2D_and_Point3D\bin\Debug\net8.0\Point2D_and_Point3D.deps.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Point2D_and_Point3D\bin\Debug\net8.0\Point2D_and_Point3D.runtimeconfig.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Point2D_and_Point3D\bin\Debug\net8.0\Point2D_and_Point3D.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Point2D_and_Point3D\bin\Debug\net8.0\Point2D_and_Point3D.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Point2D_and_Point3D\obj\Debug\net8.0\Point2D_and_Point3D.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Point2D_and_Point3D\obj\Debug\net8.0\refint\Point2D_and_Point3D.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Point2D_and_Point3D\obj\Debug\net8.0\Point2D_and_Point3D.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Point2D_and_Point3D\obj\Debug\net8.0\Point2D_and_Point3D.genruntimeconfig.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Point2D_and_Point3D\obj\Debug\net8.0\ref\Point2D_and_Point3D.dll
